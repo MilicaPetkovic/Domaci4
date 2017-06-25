@@ -1,0 +1,46 @@
+nav {
+	background-color: #242424;
+	height: 80px;
+}
+body {
+	margin: 0;
+	 background-image: url("Watery.jpg");
+}
+h1 {
+	color: #008000;
+	position: absolute;
+	font-weight: bold;
+	font-family: 'Arvo', serif;
+	margin-left: 25px;
+}
+input {
+	display: block;
+	border: 2px solid black;
+}
+input[type="radio"] {
+	display: inline-block;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.forma {
+	margin-left: 70px;
+	font-family: 'Frijole', cursive;
+
+}
+input[type="submite"] {
+	background-color: #008080;
+	border: 3px solid black;
+	height: 30px;
+	width: 200px;
+	text-align: center;
+	font-weight: bold;
+	border-radius: 4px;
+	font-size: 25px;
+}
+h2 {
+	font-family: 'Frijole', cursive;
+}
+.m {
+	float: right;
+	display: inline-block;
+}
