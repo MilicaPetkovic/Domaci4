@@ -27,10 +27,10 @@ input[type="radio"] {
 	font-family: 'Frijole', cursive;
 
 }
-input[type="submite"] {
+input[type="submit"] {
 	background-color: #008080;
 	border: 3px solid black;
-	height: 30px;
+	height: 40px;
 	width: 200px;
 	text-align: center;
 	font-weight: bold;
@@ -43,4 +43,7 @@ h2 {
 .m {
 	float: right;
 	display: inline-block;
+}
+input[type="checkbox"] {
+	margin-top: 15px;
 }
